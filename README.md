@@ -1,7 +1,6 @@
 # IosevkaCapy
 
-Custom [Iosevka](https://github.com/be5invis/Iosevka/tree/main) font building instructions that include:
-- Kitty support(glyphs enabled);
+Custom [Iosevka](https://github.com/be5invis/Iosevka/tree/main) font building instructions.
 
 ## Building
 
